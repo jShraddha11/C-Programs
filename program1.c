@@ -4,10 +4,6 @@ int main()
 {
     printf("Jay Ganesh...\n");
 
-    \return 0;
+    return 0;
 }
 
-// gcc program1.c -o Myexe
-
-// Myexe.exe
-// ./Myexe
